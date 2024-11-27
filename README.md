@@ -26,4 +26,7 @@ To run this project, ensure you have the following installed:
 
 You can install the libraries using:
 ```bash
-pip install requests beautifulsoup4 pandas numpy
+pip install requests
+pip install beautifulsoup4 
+pip install pandas 
+pip install numpy
